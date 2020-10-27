@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to my profile.
 
-- 🔭 I’m currently working on some exercises.
-- 🌱 I’m currently learning Javascript and React Native
+- 🔭 I’m a student at Clarusway.
+- 🌱 I’m currently learning React Native.
 
 - 📫 How to reach me:
 Linkedln: https://www.linkedin.com/in/harun-da%C4%9Fc%C4%B1-9744ab1b1/
